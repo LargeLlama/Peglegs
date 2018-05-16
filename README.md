@@ -17,10 +17,8 @@ hey wyd
 
 
 ### Heap Todo
-Form a plan for implementing each method,
-....and a prioritized list indicating which to implement before others. Add this list to readme, under heading "heap todo".
 
-**helper methods should get priority
+***helper methods should get priority
 
 1. [x] peekMin() - reuse implementation from previous homework(use get() method)
 

@@ -71,25 +71,7 @@ public class ALHeap
 
   */
 
-
-/*
-Adding to a Heap
-
-1) Insert a new element to the end of the array representing a binary tree.
-2) While the heap's property is broken, swap element with parent.
-3) Repeat step 2 till heap property is fulfilled.
-
-Removing from a Heap
-
-1) Replace root of heap with last element of the array
-2) Compare the new root with children. If the children are in correct order then stop.
-3) Otherwise, swap with one of children and go back to step 2.
-  - for a min heap swap with the smaller child
-  - for a max heap swap with larger child
-*/
-	
-	
-	
+		
   /*****************************************************
   * add(Integer)
   * Inserts an element in the heap
@@ -111,6 +93,7 @@ Removing from a Heap
 
 
   }//O(logn)
+	
 
   /*
   Removing from a Heap
@@ -121,7 +104,6 @@ Removing from a Heap
   - for a min heap swap with the smaller child
   - for a max heap swap with larger child
   */
-
 
 
   /*****************************************************
